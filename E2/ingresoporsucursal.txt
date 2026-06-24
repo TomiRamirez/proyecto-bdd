@@ -1,0 +1,9 @@
+    sucursal     |           gerente           | ingreso_total | porcentaje_total 
+-----------------+-----------------------------+---------------+------------------
+ Providencia     | Loreto Alvarez Barrera      |    1267104000 |            31.30
+ Santiago Centro | Daniela Contreras Iturra    |    1035691000 |            25.58
+ Santa Cruz      | Javiera Espinoza Espinoza   |     947923000 |            23.41
+ Santa Cruz      | Felicia Contreras Contreras |     947923000 |            23.41
+ La Florida      | Claudio Galdames Duarte     |     797680000 |            19.70
+(5 rows)
+

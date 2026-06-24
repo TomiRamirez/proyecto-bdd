@@ -1,0 +1,96 @@
+       nombre_completo       |    run     |    sucursal     |  tipo_socio   | cuotas_atrasadas | monto_adeudado 
+-----------------------------+------------+-----------------+---------------+------------------+----------------
+ Beatriz Galdames Espinoza   | 21896425-7 | La Florida      | socio_titular |                8 |         265000
+ Daniela Quezada Nuñez       | 12735469-3 | La Florida      | socio_titular |                8 |         265000
+ Helena Jara Duarte          | 17608709-9 | La Florida      | socio_titular |                8 |         265000
+ Helena Quezada Duarte       | 24724208-2 | La Florida      | socio_titular |                8 |         265000
+ Ignacio Pardo Pardo         | 6344903-2  | La Florida      | socio_titular |                8 |         265000
+ Javiera Mendez Fuentes      | 8554458-6  | La Florida      | socio_titular |                8 |         265000
+ Mauricio Fuentes Contreras  | 19556227-K | La Florida      | socio_titular |                8 |         265000
+ Oscar Galdames Lagos        | 11166446-3 | La Florida      | socio_titular |                8 |         265000
+ Patricia Jara Espinoza      | 23230624-6 | La Florida      | socio_titular |                8 |         265000
+ Felicia Quezada Fuentes     | 6988932-8  | La Florida      | socio_titular |                7 |         240000
+ Alvaro Iturra Mendez        | 22224530-3 | La Florida      | socio_titular |                6 |         210000
+ Helena Mendez Espinoza      | 6005570-K  | La Florida      | socio_titular |                6 |         210000
+ Kevin Quezada Barrera       | 19916691-3 | La Florida      | socio_titular |                6 |         210000
+ Mauricio Duarte Ortiz       | 22279269-K | La Florida      | socio_titular |                6 |         210000
+ Patricia Quezada Pardo      | 21103105-0 | La Florida      | socio_titular |                6 |         210000
+ Beatriz Barrera Fuentes     | 23937539-1 | La Florida      | socio_titular |                2 |          55000
+ Enrique Henriquez Contreras | 19067421-5 | La Florida      | socio_titular |                2 |          55000
+ Felicia Pardo Galdames      | 21038193-7 | La Florida      | socio_titular |                2 |          55000
+ Javiera Jara Nuñez          | 19150099-7 | La Florida      | socio_titular |                2 |          55000
+ Natalia Espinoza Alvarez    | 13852439-6 | La Florida      | socio_titular |                2 |          55000
+ Beatriz Alvarez Lagos       | 5058856-4  | Providencia     | socio_titular |                8 |         265000
+ Claudio Mendez Nuñez        | 23115895-2 | Providencia     | socio_titular |                8 |         265000
+ Daniela Henriquez Duarte    | 20789127-4 | Providencia     | socio_titular |                8 |         265000
+ Daniela Quezada Espinoza    | 8054887-7  | Providencia     | socio_titular |                8 |         265000
+ Helena Alvarez Mendez       | 16103628-5 | Providencia     | socio_titular |                8 |         265000
+ Ignacio Espinoza Galdames   | 17526820-0 | Providencia     | socio_titular |                8 |         265000
+ Ignacio Mendez Henriquez    | 24377951-0 | Providencia     | socio_titular |                8 |         265000
+ Javiera Barrera Duarte      | 5093909-K  | Providencia     | socio_titular |                8 |         265000
+ Loreto Alvarez Mendez       | 16804818-1 | Providencia     | socio_titular |                8 |         265000
+ Loreto Nuñez Henriquez      | 21325038-8 | Providencia     | socio_titular |                8 |         265000
+ Mauricio Henriquez Espinoza | 17877848-K | Providencia     | socio_titular |                8 |         265000
+ Natalia Duarte Nuñez        | 22997716-4 | Providencia     | socio_titular |                8 |         265000
+ Natalia Galdames Contreras  | 6016578-5  | Providencia     | socio_titular |                8 |         265000
+ Oscar Contreras Lagos       | 12170069-7 | Providencia     | socio_titular |                8 |         265000
+ Patricia Barrera Pardo      | 17862474-1 | Providencia     | socio_titular |                8 |         265000
+ Alvaro Galdames Contreras   | 21319100-4 | Providencia     | socio_titular |                6 |         210000
+ Beatriz Barrera Barrera     | 24480744-5 | Providencia     | socio_titular |                6 |         210000
+ Felicia Lagos Ortiz         | 9081387-0  | Providencia     | socio_titular |                6 |         210000
+ Loreto Alvarez Fuentes      | 24548958-7 | Providencia     | socio_titular |                6 |         210000
+ Natalia Barrera Barrera     | 16809928-2 | Providencia     | socio_titular |                6 |         210000
+ Oscar Quezada Ortiz         | 13588977-6 | Providencia     | socio_titular |                6 |         210000
+ Patricia Espinoza Contreras | 7204671-4  | Providencia     | socio_titular |                6 |         210000
+ Felicia Lagos Galdames      | 9737943-2  | Providencia     | socio_titular |                2 |          55000
+ Gonzalo Lagos Mendez        | 15913517-9 | Providencia     | socio_titular |                2 |          55000
+ Helena Mendez Pardo         | 21005871-0 | Providencia     | socio_titular |                2 |          55000
+ Helena Nuñez Iturra         | 24211768-9 | Providencia     | socio_titular |                2 |          55000
+ Javiera Lagos Contreras     | 24973079-3 | Providencia     | socio_titular |                2 |          55000
+ Kevin Nuñez Pardo           | 16653005-9 | Providencia     | socio_titular |                2 |          55000
+ Natalia Contreras Mendez    | 22417599-K | Providencia     | socio_titular |                2 |          55000
+ Oscar Contreras Henriquez   | 9946748-7  | Providencia     | socio_titular |                2 |          55000
+ Daniela Henriquez Fuentes   | 20848551-2 | Santa Cruz      | socio_titular |                8 |         265000
+ Helena Henriquez Fuentes    | 9666051-0  | Santa Cruz      | socio_titular |                8 |         265000
+ Helena Henriquez Nuñez      | 11750440-9 | Santa Cruz      | socio_titular |                8 |         265000
+ Ignacio Quezada Henriquez   | 9848362-4  | Santa Cruz      | socio_titular |                8 |         265000
+ Javiera Contreras Henriquez | 22109010-1 | Santa Cruz      | socio_titular |                8 |         265000
+ Loreto Duarte Quezada       | 24692054-0 | Santa Cruz      | socio_titular |                8 |         265000
+ Natalia Contreras Jara      | 24941085-3 | Santa Cruz      | socio_titular |                8 |         265000
+ Patricia Duarte Espinoza    | 15182198-7 | Santa Cruz      | socio_titular |                8 |         265000
+ Patricia Pardo Fuentes      | 20484469-0 | Santa Cruz      | socio_titular |                8 |         265000
+ Claudio Barrera Ortiz       | 10336757-3 | Santa Cruz      | socio_titular |                7 |         240000
+ Alvaro Pardo Nuñez          | 9915422-5  | Santa Cruz      | socio_titular |                6 |         210000
+ Gonzalo Espinoza Fuentes    | 24259004-K | Santa Cruz      | socio_titular |                6 |         210000
+ Ignacio Barrera Alvarez     | 11689866-7 | Santa Cruz      | socio_titular |                6 |         210000
+ Alvaro Duarte Espinoza      | 14936708-K | Santa Cruz      | socio_titular |                2 |          55000
+ Beatriz Henriquez Duarte    | 19879651-4 | Santa Cruz      | socio_titular |                2 |          55000
+ Beatriz Iturra Iturra       | 6698610-1  | Santa Cruz      | socio_titular |                2 |          55000
+ Enrique Mendez Fuentes      | 9996844-3  | Santa Cruz      | socio_titular |                2 |          55000
+ Mauricio Duarte Duarte      | 23382051-2 | Santa Cruz      | socio_titular |                2 |          55000
+ Mauricio Lagos Pardo        | 14868324-7 | Santa Cruz      | socio_titular |                2 |          55000
+ Patricia Nuñez Duarte       | 23271233-3 | Santa Cruz      | socio_titular |                2 |          55000
+ Beatriz Jara Ortiz          | 22924363-2 | Santiago Centro | socio_titular |                8 |         265000
+ Daniela Quezada Contreras   | 9897596-9  | Santiago Centro | socio_titular |                8 |         265000
+ Enrique Quezada Mendez      | 21265551-1 | Santiago Centro | socio_titular |                8 |         265000
+ Felicia Henriquez Nuñez     | 16701421-6 | Santiago Centro | socio_titular |                8 |         265000
+ Helena Lagos Nuñez          | 18512802-4 | Santiago Centro | socio_titular |                8 |         265000
+ Kevin Iturra Nuñez          | 18257455-4 | Santiago Centro | socio_titular |                8 |         265000
+ Patricia Quezada Iturra     | 12620839-1 | Santiago Centro | socio_titular |                8 |         265000
+ Claudio Quezada Ortiz       | 11606281-K | Santiago Centro | socio_titular |                7 |         240000
+ Mauricio Barrera Duarte     | 24887596-8 | Santiago Centro | socio_titular |                7 |         240000
+ Beatriz Iturra Alvarez      | 10140560-5 | Santiago Centro | socio_titular |                6 |         210000
+ Enrique Duarte Nuñez        | 19305751-9 | Santiago Centro | socio_titular |                6 |         210000
+ Helena Jara Barrera         | 9151881-3  | Santiago Centro | socio_titular |                6 |         210000
+ Javiera Barrera Mendez      | 6115597-K  | Santiago Centro | socio_titular |                6 |         210000
+ Natalia Espinoza Ortiz      | 24301503-0 | Santiago Centro | socio_titular |                6 |         210000
+ Patricia Jara Mendez        | 19172678-2 | Santiago Centro | socio_titular |                6 |         210000
+ Ignacio Iturra Alvarez      | 17615166-8 | Santiago Centro | socio_titular |                3 |         105000
+ Claudio Fuentes Nuñez       | 24790376-3 | Santiago Centro | socio_titular |                2 |          55000
+ Gonzalo Galdames Jara       | 9774947-7  | Santiago Centro | socio_titular |                2 |          55000
+ Ignacio Fuentes Espinoza    | 12794848-8 | Santiago Centro | socio_titular |                2 |          55000
+ Mauricio Espinoza Alvarez   | 7854704-9  | Santiago Centro | socio_titular |                2 |          55000
+ Natalia Quezada Nuñez       | 5214098-6  | Santiago Centro | socio_titular |                2 |          55000
+ Oscar Espinoza Ortiz        | 17545284-2 | Santiago Centro | socio_titular |                2 |          55000
+(92 rows)
+

@@ -1,0 +1,7 @@
+    tipo_ingreso    |      concepto       | total_monto 
+--------------------+---------------------+-------------
+ Ingresos Recibidos | Membresias          |      385000
+ Ingresos Esperados | Membresias          |      605000
+ Ingresos Esperados | Reservas ejecutadas |     7318000
+(3 rows)
+
